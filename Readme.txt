@@ -1,5 +1,9 @@
 Project 1 - Just Breathe - Developed by Sai Krishan - CS 424 Visualization Analytics - Spring'19
 
+The project aims at analysing the Air Quality data for different states and counties across the 
+United States of America from 1980-2018. The project is developed using R, Shiny and 
+various R packages and is hosted in shinyapps.io. 
+
 To run the project, download and install R (20178-12-20 Eggshell Igloo) from a site such as https://cran.cnr.berkeley.edu/
 Then you should download and install R-Studio (1.1.463) from https://www.rstudio.com/products/rstudio/download/
 
